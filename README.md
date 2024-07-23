@@ -37,6 +37,8 @@ Tools & Libraries:
 - Python, Pandas, Matplotlib, Seaborn.
 - Power BI as Visualization Tool
 
+<img width="1600" alt="Pricing Strategy" src="https://github.com/user-attachments/assets/80fce01b-4db1-4dbf-bb0b-a159d9032931">
+
 Insights:
 - Peak season occurs during summer and holiday periods.
 - Shoulder seasons include spring and autumn.
@@ -51,7 +53,9 @@ Approach:
 
 Tools & Libraries:
 - Python, Pandas, Matplotlib.
-- Power Bi as Visualization Tool
+- Power BI as Visualization Tool
+
+<img width="1600" alt="image" src="https://github.com/user-attachments/assets/3ec95563-100d-449a-8501-6e1c954be1f3">
 
 Insights:
 - Common stay durations include weekend getaways (2-3 days) and week-long vacations (7 days).
@@ -67,7 +71,9 @@ Approach:
 
 Tools & Libraries:
 - Python, Pandas, Matplotlib.
-- Power Bi as Visualization Tool
+- Power BI as Visualization Tool
+  
+<img width="1600" alt="Cancellation Strategy" src="https://github.com/user-attachments/assets/8f2b32bd-f464-402c-942b-d0ecd1a87876">
 
 Insights:
 - Higher cancellation rates were observed closer to the arrival date.
@@ -84,11 +90,13 @@ Objective: Forecast future booking demand to ensure IT systems can handle peak l
 Approach:
 - Calculated the number of days between booking and arrival date to identify peak booking weeks.
 - Used SARIMA model to forecast future demand.
-
+  
+<img width="901" alt="Forecast" src="https://github.com/user-attachments/assets/4428f4b8-3b8d-4963-a786-64e2f4ab6567">
 
 Tools & Libraries:
 - Python, Pandas, Matplotlib, Statsmodels.
-- Power Bi as Visualization Tool
+- Power BI as Visualization Tool
+
 
 Insights:
 - Forecasted peak demand weeks based on historical data.
@@ -97,6 +105,8 @@ Insights:
 ## :information_source: Conclusions
 
 This project provided actionable insights into booking patterns, stay durations, cancellation behaviors, and future demand forecasting. The proposed strategies aim to optimize HotelFlix's operations and improve customer satisfaction.
+
+Link to Power BI Report: [HotelFix Data-Perfected Stays](https://app.powerbi.com/view?r=eyJrIjoiNDFhOGI2YjAtMmQ0ZS00YjI1LWJiNDMtZTk0OWE4ZDM4MGQzIiwidCI6ImUwMDI3MzIwLWE2YjYtNGM5ZC1iNzBmLTM3ZTdmNzc5ZDBiMiJ9)
 
 ## :penguin: Contacts
 
