@@ -106,7 +106,7 @@ Insights:
 
 This project provided actionable insights into booking patterns, stay durations, cancellation behaviors, and future demand forecasting. The proposed strategies aim to optimize HotelFlix's operations and improve customer satisfaction.
 
-Link to Power BI Report: [HotelFix Data-Perfected Stays](https://app.powerbi.com/view?r=eyJrIjoiNDFhOGI2YjAtMmQ0ZS00YjI1LWJiNDMtZTk0OWE4ZDM4MGQzIiwidCI6ImUwMDI3MzIwLWE2YjYtNGM5ZC1iNzBmLTM3ZTdmNzc5ZDBiMiJ9)
+Link to Power BI Report: [Hotelflix Data-Perfected Stays](https://app.powerbi.com/view?r=eyJrIjoiNDFhOGI2YjAtMmQ0ZS00YjI1LWJiNDMtZTk0OWE4ZDM4MGQzIiwidCI6ImUwMDI3MzIwLWE2YjYtNGM5ZC1iNzBmLTM3ZTdmNzc5ZDBiMiJ9)
 
 ## :penguin: Contacts
 
