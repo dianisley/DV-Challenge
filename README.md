@@ -1,3 +1,4 @@
+<img width="260" alt="Screenshot 2024-07-13 233636" src="https://github.com/user-attachments/assets/1d0480ef-3db8-4928-a4a2-d05ea875800b">
 
 # HotelFlix Data Visualization Challenge
 
@@ -6,14 +7,15 @@ This repository contains the solutions to the Data Visualization Challenge prese
 
 ## Table of Contents
 
-- Introduction
-- Part 1: Understanding the Seasonality of the Bookings
-- Part 2: Creating the Shape of Future Hotel Packages
-- Part 3: Comprehending the Cancellation Foundations
-- Part 4: Preparing the IT Systems for the Demand
-- Conclusions
-- Contact
-## Introduction
+- [Introduction](##introduction)
+- [Understanding the Seasonality of the Bookings](##understanding-the-seasonality-of-bookings)
+- [Creating the Shape of Future Hotel Packages](##creating-the-shape-of-future-hotel-packages)
+- [Comprehending the Cancellation Foundations](##comprehending-the-cancellation-foundations)
+- [Preparing the IT Systems for the Demand](##preparing-the-it-systems-for-the-demand)
+- [Conclusions](##conclusions)
+- [Contact](##contact)
+
+## :scroll: Introduction
 
 HotelFlix is striving to improve its understanding of booking patterns, optimize pricing strategies, create attractive packages, and establish effective cancellation policies. This project uses historical booking data to derive insights and propose actionable strategies across four main areas:
 
@@ -21,7 +23,8 @@ HotelFlix is striving to improve its understanding of booking patterns, optimize
 - Designing hotel stay packages.
 - Developing a cancellation policy.
 - Preparing IT systems for future demand.
-## Part 1: Understanding the Seasonality of the Bookings
+  
+## :one: Understanding the Seasonality of the Bookings
 
 Objective: Analyze the seasonality in bookings to propose a dynamic pricing model.
 
@@ -38,7 +41,7 @@ Insights:
 - Peak season occurs during summer and holiday periods.
 - Shoulder seasons include spring and autumn.
 - Off-Peak season is typically in winter, excluding the holiday period.
-## Part 2: Creating the Shape of Future Hotel Packages
+## :two: Creating the Shape of Future Hotel Packages
 
 Objective: Determine typical stay durations to design attractive hotel packages.
 
@@ -53,7 +56,8 @@ Tools & Libraries:
 Insights:
 - Common stay durations include weekend getaways (2-3 days) and week-long vacations (7 days).
 - Proposed packages: 2-day, 3-day, 7-day, and extended stay options (10+ days).
-## Part 3: Comprehending the Cancellation Foundations
+  
+## :three: Comprehending the Cancellation Foundations
 
 Objective: Develop a cancellation policy to reduce financial loss from cancellations.
 
@@ -72,7 +76,8 @@ Insights:
     - 8-30 days: 50% penalty.
     - 31-90 days: 25% penalty.
     - 91+ days: 10% penalty.
-## Part 4: Preparing the IT Systems for the Demand
+      
+## :four: Preparing the IT Systems for the Demand
 
 Objective: Forecast future booking demand to ensure IT systems can handle peak loads.
 
@@ -88,11 +93,15 @@ Tools & Libraries:
 Insights:
 - Forecasted peak demand weeks based on historical data.
 - Recommended IT system enhancements to handle forecasted load.
-## Conclusions
+  
+## :information_source: Conclusions
 
 This project provided actionable insights into booking patterns, stay durations, cancellation behaviors, and future demand forecasting. The proposed strategies aim to optimize HotelFlix's operations and improve customer satisfaction.
-## Authors
 
-- [@dianisley](https://www.github.com/dianisley)
+## :penguin: Contacts
+
+- Author : Diana Fernandez
+- Email : dianaf@alumni.ie.edu
+- Github : https://github.com/dianisley/DV-Challenge.git
 
 
